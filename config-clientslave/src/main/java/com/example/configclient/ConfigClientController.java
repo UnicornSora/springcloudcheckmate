@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
 @EnableEurekaClient
 public class ConfigClientController {
 
-    private static final Logger LOGGER = LoggerFactory.getLogger(ConfigClientApplication.class);
+    private static final Logger LOGGER = LoggerFactory.getLogger(ConfigClientSlaveApplication.class);
 
     @Value("${foo}")
     String foo;
