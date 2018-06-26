@@ -1,20 +1,24 @@
 spring:
   application:
     name: config-server
-#  cloud:
-#    config:
-#      server:
-#        git:
-#          uri: https://github.com/forezp/SpringcloudConfig/
-#          search-paths: respo
-#      label: master
-  profiles:
-    active: native
   cloud:
     config:
       server:
-        native:
-          search-locations: classpath:/env/
+        git:
+          uri: https://github.com/UnicornSora/springcloudcheckmate
+          search-paths: /config-server/src/main/resources/env
+#          uri: https://gitee.com/JeeGemEdu/SpringCloudConfig
+#          search-paths: respo
+#          username:
+#          password:
+      label: master
+#  profiles:
+#    active: native
+#  cloud:
+#    config:
+#      server:
+#        native:
+#          search-locations: classpath:/env/
 server:
   port: 8888
 management:
