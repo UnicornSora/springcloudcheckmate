@@ -1,17 +1,17 @@
 spring:
   application:
     name: config-server
+#    从远程仓库获取
   cloud:
     config:
       server:
         git:
           uri: https://github.com/UnicornSora/springcloudcheckmate
           search-paths: /config-server/src/main/resources/env
-#          uri: https://gitee.com/JeeGemEdu/SpringCloudConfig
-#          search-paths: respo
-#          username:
-#          password:
+          username:
+          password:
       label: master
+#从本地获取
 #  profiles:
 #    active: native
 #  cloud:
