@@ -13,6 +13,8 @@
         <module name="eurekaclientslave" />
         <module name="eurekaserver" />
         <module name="service-feign" />
+        <module name="service-hi" />
+        <module name="service-miya" />
         <module name="service-ribbon" />
         <module name="service-zuul" />
       </profile>
@@ -29,6 +31,8 @@
       <module name="sericefeign" target="1.8" />
       <module name="server-zipkin" target="1.8" />
       <module name="service-feign" target="1.8" />
+      <module name="service-hi" target="1.8" />
+      <module name="service-miya" target="1.8" />
       <module name="service-ribbon" target="1.8" />
       <module name="service-zuul" target="1.8" />
       <module name="servicefeign" target="1.8" />
