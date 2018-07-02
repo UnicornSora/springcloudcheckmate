@@ -9,6 +9,8 @@
         <module name="config-client" />
         <module name="config-clientslave" />
         <module name="config-server" />
+        <module name="eureka-server2" />
+        <module name="eureka-server3" />
         <module name="eurekaclient" />
         <module name="eurekaclientslave" />
         <module name="eurekaserver" />
@@ -25,6 +27,8 @@
       <module name="config-clientslave" target="1.8" />
       <module name="config-server" target="1.8" />
       <module name="demo" target="1.8" />
+      <module name="eureka-server2" target="1.8" />
+      <module name="eureka-server3" target="1.8" />
       <module name="eurekaclient" target="1.8" />
       <module name="eurekaclientslave" target="1.8" />
       <module name="eurekaserver" target="1.8" />

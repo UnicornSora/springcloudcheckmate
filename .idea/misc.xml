@@ -26,6 +26,8 @@
         <option value="$PROJECT_DIR$/config-clientslave/pom.xml" />
         <option value="$PROJECT_DIR$/service-hi/pom.xml" />
         <option value="$PROJECT_DIR$/service-miya/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-server2/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-server3/pom.xml" />
       </list>
     </option>
   </component>
