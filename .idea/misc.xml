@@ -28,6 +28,8 @@
         <option value="$PROJECT_DIR$/service-miya/pom.xml" />
         <option value="$PROJECT_DIR$/eureka-server2/pom.xml" />
         <option value="$PROJECT_DIR$/eureka-server3/pom.xml" />
+        <option value="$PROJECT_DIR$/eurekaserverdocker/pom.xml" />
+        <option value="$PROJECT_DIR$/service-hi-hystrixdashboard/pom.xml" />
       </list>
     </option>
   </component>
