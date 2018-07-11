@@ -14,8 +14,10 @@
       <module fileurl="file://$PROJECT_DIR$/service-feign/service-feign.iml" filepath="$PROJECT_DIR$/service-feign/service-feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-hi/service-hi.iml" filepath="$PROJECT_DIR$/service-hi/service-hi.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-hi-hystrixdashboard/service-hi-hystrixdashboard.iml" filepath="$PROJECT_DIR$/service-hi-hystrixdashboard/service-hi-hystrixdashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-lucy/service-lucy.iml" filepath="$PROJECT_DIR$/service-lucy/service-lucy.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-miya/service-miya.iml" filepath="$PROJECT_DIR$/service-miya/service-miya.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-ribbon/service-ribbon.iml" filepath="$PROJECT_DIR$/service-ribbon/service-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-turbine/service-turbine.iml" filepath="$PROJECT_DIR$/service-turbine/service-turbine.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-zuul/service-zuul.iml" filepath="$PROJECT_DIR$/service-zuul/service-zuul.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/springcloudcheckmate.iml" filepath="$PROJECT_DIR$/.idea/springcloudcheckmate.iml" />
     </modules>
